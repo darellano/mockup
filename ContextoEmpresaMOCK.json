@@ -1,0 +1,77 @@
+{
+    "errorCode": 0,
+    "errorDescripcion": "Servicio ejecutado con éxito.",
+    "rutEmpresa": "9999999999",
+    "nombreEmpresa": "UNO NUEVE SA",
+    "segmento": {
+        "codigo": "13",
+        "nombre": "BANCA GRANDES EMPRES"
+    },
+    "ejecutivoComercial": {
+        "nombre": "Ejecutivo comercial nombre",
+        "email": "ejecomercial@gmail.cl"
+    },
+    "ejecutivoCash": {
+        "nombre": "Ejecutivo cash nombre",
+        "email": "ejecash@gmail.cl"
+    },
+    "rut_admin": "111111111",
+    "nombre_admin": "SUPERVISOR",
+    "apellidoPaterno_admin": "SUPERVISOR",
+    "apellidoMaterno_admin": "",
+    "perfil_admin": {
+        "codigo": "ADMIN",
+        "nombre": "Administrador"
+    },
+	"rol_admin": {
+        "codigo": "ATTORNEY",
+        "nombre": "Apoderado"
+    },
+    "correo_admin": "usuario1@municipal.cl"
+    "telefono_admin": "569432432432"
+	"lstApoderados" : "111111111;JOSE1;PEREZ1;SOTO1;Administrador;Apoderado;usuario1@gmail.com;56912345678|222222222;JOSE2;PEREZ2;SOTO2;Administrador;Apoderado;usuario2@gmail.com;56987654321",
+    "apoderados": [
+        {
+            "rut": "94976626",
+            "nombre": "JUAN CARLOS",
+            "apellidoPaterno": "SANCHEZ",
+            "apellidoMaterno": "C",
+            "perfil": {
+                "codigo": "01",
+                "nombre": "Administrador"
+            },
+            "roles": [
+                {
+                    "codigo": "ATTORNEY",
+                    "nombre": "Apoderado"
+                }
+            ],
+            "correos": [
+                "usuario1@gmail.com"
+            ],
+            "telefonos": [],
+            "esAdmin": false
+        },
+        {
+            "rut": "222222222",
+            "nombre": "JOSE2",
+            "apellidoPaterno": "PEREZ2",
+            "apellidoMaterno": "SOTO2",
+            "perfil": {
+                "codigo": "01",
+                "nombre": "Administrador"
+            },
+            "roles": [
+                {
+                    "codigo": "ATTORNEY",
+                    "nombre": "Apoderado"
+                }
+            ],
+            "correos": [
+                "usuario2@gmail.cl"
+            ],
+            "telefonos": [],
+            "esAdmin": false
+        }
+    ]
+}
