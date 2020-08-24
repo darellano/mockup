@@ -27,8 +27,8 @@
         "codigo": "ATTORNEY",
         "nombre": "Apoderado"
     },
-    "correo_admin": "usuario1@municipal.cl"
-    "telefono_admin": "569432432432"
+    "correo_admin": "usuario1@municipal.cl",
+    "telefono_admin": "569432432432",
 	"lstApoderados" : "111111111;JOSE1;PEREZ1;SOTO1;Administrador;Apoderado;usuario1@gmail.com;56912345678|222222222;JOSE2;PEREZ2;SOTO2;Administrador;Apoderado;usuario2@gmail.com;56987654321",
     "apoderados": [
         {
