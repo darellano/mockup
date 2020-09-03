@@ -1,0 +1,116 @@
+{
+    "errorCode": 0,
+    "errorDescripcion": "Servicio ejecutado con éxito.",
+    "rutEmpresa": "1111111111",
+    "nombreEmpresa": "CORP CULTURAL DE LA ILUSTRE MUNIC DE ...",
+    "segmento": {
+        "codigo": "99",
+        "nombre": "BANCA GRANDES EMPRES"
+    },
+    "ejecutivoComercial": {
+        "nombre": "SOTO DIAZ JOSE LUIS",
+        "email": "correoComercial@gmail.cl"
+    },
+    "ejecutivoCash": {
+        "nombre": "SOTO CAMPOS PABLO ANDRES",
+        "email": "correoCash@gmail.cl"
+    },
+    "apoderados": [
+        {
+            "rut": "222222222",
+            "nombre": "JUAN JOSE",
+            "apellidoPaterno": "LOPEZ",
+            "apellidoMaterno": "C",
+            "codigoPerfil": "USER",
+            "nombrePerfil": "Usuario",
+            "correo": "juanjose@apoderados.cl",
+            "telefono": "",
+            "roles": [
+                {
+                    "codigo": "ATTORNEY",
+                    "nombre": "Apoderado"
+                }
+            ],
+            "correos": [
+                {
+                    "esPrincipal": true,
+                    "valor": "juanjose@apoderados.cl"
+                }
+            ],
+            "telefonos": [],
+            "esAdmin": false,
+            "estado": "ACTIVADO"
+        },
+        {
+            "rut": "333333333",
+            "nombre": "CAMILO",
+            "apellidoPaterno": "CANALES",
+            "apellidoMaterno": "FERNANDEZ",
+            "codigoPerfil": "USER",
+            "nombrePerfil": "Usuario",
+            "correo": "ccanales@apoderados.cl",
+            "telefono": "",
+            "roles": [
+                {
+                    "codigo": "ATTORNEY",
+                    "nombre": "Apoderado"
+                }
+            ],
+            "correos": [
+                {
+                    "esPrincipal": true,
+                    "valor": "ccanales@apoderados.cl"
+                }
+            ],
+            "telefonos": [],
+            "esAdmin": false,
+            "estado": "ACTIVADO"
+        },
+        {
+            "rut": "444444444",
+            "nombre": "SAUL",
+            "apellidoPaterno": "CAMPOS",
+            "apellidoMaterno": "VERGARA",
+            "codigoPerfil": "USER",
+            "nombrePerfil": "Usuario",
+            "correo": "scampos@apoderados.cl",
+            "telefono": "",
+            "roles": [
+                {
+                    "codigo": "ATTORNEY",
+                    "nombre": "Apoderado"
+                }
+            ],
+            "correos": [
+                {
+                    "esPrincipal": true,
+                    "valor": "scampos@apoderados.cl"
+                }
+            ],
+            "telefonos": [],
+            "esAdmin": false,
+            "estado": "ACTIVADO"
+        }
+    ],
+    "administrador": {
+        "rut": "123456789",
+        "nombre": "SUPERVISOR",
+        "apellidoPaterno": "SUPERVISOR",
+        "apellidoMaterno": "",
+        "codigoPerfil": "ADMIN",
+        "nombrePerfil": "Administrador",
+        "correo": "supervisor@supervisor.cl",
+        "telefono": "",
+        "roles": [],
+        "correos": [
+            {
+                "esPrincipal": true,
+                "valor": "supervisor@supervisor.cl"
+            }
+        ],
+        "telefonos": [],
+        "esAdmin": true,
+        "estado": "ACTIVADO"
+    },
+    "lstApoderados": "222222222;JUAN JOSE;LOPEZ;C;USER;Usuario;juanjose@apoderados.cl;+56987654321|333333333;CAMILO;CANALES;FERNANDEZ;USER;Usuario;ccanales@apoderados.cl;+56987654311|444444444;SAUL;CAMPOS;VERGARA;USER;Usuario;scampos@apoderados.cl;+56987654321"
+}

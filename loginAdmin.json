@@ -1,0 +1,238 @@
+{
+    "errorCode": 0,
+    "errorDescripcion": "Servicio ejecutado con éxito.",
+    "rutUsuario": "111111111",
+    "rutEmpresa": "111111111",
+    "auth": "eyJhbGciOiJIUzI1NiJ9.eyJzZXJpYWxWZXJzaW9uVUlEIjotNTgzMTE3NDcwMzc0OTM1NjczNCwidXNlcl9pZCI6IjcwOTQ2MzAwNCIsInByb2ZpbGUiOiJBRE1JTiIsImlzcyI6IlBPUlRBTCIsIm5hbWUiOiJTVVBFUlZJU09SIFNVUEVSVklTT1IgbnVsbCIsImNsaWVudF9pcCI6IklWUiIsImV4cCI6MTU5OTE0Mzc0MiwiaG9sZGluZ19pZCI6IjcwOTQ2MzAwNCIsImVudGVycHJpc2VfaWQiOiI3MDk0NjMwMDQifQ.dHPlr1YBCW4kF9b4Mcfg5XwqLepBNbfMuDRh2EVpyWE",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJQT1JUQUwiLCJzZXNzaW9uSUQiOiJBRE1TUEZfOGZkOTY5ZGItIiwiaXNBZG1pbiI6dHJ1ZSwidXNlck5hbWUiOiJTVVBFUlZJU09SIFNVUEVSVklTT1IgbnVsbCIsInVzZXJJRCI6IjcwOTQ2MzAwNCIsImN1c3RvbWVyTmFtZSI6IkNPUlAgQ1VMVFVSQUwgREUgTEEgSUxVU1RSRSBNVU5JQyBERSBTQSIsInNlcmlhbFZlcnNpb25VSUQiOi01ODMxMTc0NzAzNzQ5MzU2NzM0LCJyb290Q3VzdG9tZXJJRCI6IjcwOTQ2MzAwNCIsImNsaWVudElwIjoiSVZSIiwiY3VzdG9tZXJJRCI6IjcwOTQ2MzAwNCIsInJvb3RDdXN0b21lck5hbWUiOiJDT1JQIENVTFRVUkFMIERFIExBIElMVVNUUkUgTVVOSUMgREUgU0EiLCJleHBpcmF0aW9uIjoxNTk5MTQzNzQyLCJleHAiOjE1OTkxNDM3NDJ9.blROk3OID3PcWsWJTWQYzTJPky4wMfEIFWk3xo04VUk",
+        {
+            "codigo": "90970369848",
+            "tipo": "CTAEUR",
+            "nombre": "Cuenta Corriente Euros",
+            "servicios": [
+                {
+                    "codigo": "S001001008000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta cheque"
+                },
+                {
+                    "codigo": "S001001007000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Resumen consolidado"
+                },
+                {
+                    "codigo": "S001002004000",
+                    "tipo": "MONEY",
+                    "nombre": "Pago línea de crédito"
+                },
+                {
+                    "codigo": "S001001003000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola histórica"
+                },
+                {
+                    "codigo": "S001001005000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética"
+                },
+                {
+                    "codigo": "S001001002000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola emitida"
+                },
+                {
+                    "codigo": "S001001010000",
+                    "tipo": "MONEY",
+                    "nombre": "Orden de no pago"
+                },
+                {
+                    "codigo": "S001001006000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética masiva"
+                },
+                {
+                    "codigo": "S001001009000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta talonario"
+                },
+                {
+                    "codigo": "S001001001000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Últimos movimientos"
+                }
+            ]
+        },
+        {
+            "codigo": "771018404",
+            "tipo": "CTACTE",
+            "nombre": "Cuenta Corriente Pesos",
+            "servicios": [
+                {
+                    "codigo": "S001001001000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Últimos movimientos"
+                },
+                {
+                    "codigo": "S001001009000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta talonario"
+                },
+                {
+                    "codigo": "S001001008000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta cheque"
+                },
+                {
+                    "codigo": "S001001005000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética"
+                },
+                {
+                    "codigo": "S001001006000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética masiva"
+                },
+                {
+                    "codigo": "S001001007000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Resumen consolidado"
+                },
+                {
+                    "codigo": "S001002004000",
+                    "tipo": "MONEY",
+                    "nombre": "Pago línea de crédito"
+                },
+                {
+                    "codigo": "S001001003000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola histórica"
+                },
+                {
+                    "codigo": "S001001002000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola emitida"
+                },
+                {
+                    "codigo": "S001001010000",
+                    "tipo": "MONEY",
+                    "nombre": "Orden de no pago"
+                }
+            ]
+        },
+        {
+            "codigo": "670071503",
+            "tipo": "CTAUSD",
+            "nombre": "Cuenta Corriente Dólar",
+            "servicios": [
+                {
+                    "codigo": "S001001007000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Resumen consolidado"
+                },
+                {
+                    "codigo": "S001001006000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética masiva"
+                },
+                {
+                    "codigo": "S001002004000",
+                    "tipo": "MONEY",
+                    "nombre": "Pago línea de crédito"
+                },
+                {
+                    "codigo": "S001001003000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola histórica"
+                },
+                {
+                    "codigo": "S001001010000",
+                    "tipo": "MONEY",
+                    "nombre": "Orden de no pago"
+                },
+                {
+                    "codigo": "S001001002000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola emitida"
+                },
+                {
+                    "codigo": "S001001009000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta talonario"
+                },
+                {
+                    "codigo": "S001001001000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Últimos movimientos"
+                },
+                {
+                    "codigo": "S001001008000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta cheque"
+                },
+                {
+                    "codigo": "S001001005000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética"
+                }
+            ]
+        },
+        {
+            "codigo": "770858300",
+            "tipo": "CTACTE",
+            "nombre": "Cuenta Corriente Pesos",
+            "servicios": [
+                {
+                    "codigo": "S001001009000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta talonario"
+                },
+                {
+                    "codigo": "S001001001000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Últimos movimientos"
+                },
+                {
+                    "codigo": "S001001008000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Consulta cheque"
+                },
+                {
+                    "codigo": "S001001005000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética"
+                },
+                {
+                    "codigo": "S001001007000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Resumen consolidado"
+                },
+                {
+                    "codigo": "S001001003000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola histórica"
+                },
+                {
+                    "codigo": "S001001006000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Conciliación magnética masiva"
+                },
+                {
+                    "codigo": "S001002004000",
+                    "tipo": "MONEY",
+                    "nombre": "Pago línea de crédito"
+                },
+                {
+                    "codigo": "S001001002000",
+                    "tipo": "NO_MONEY",
+                    "nombre": "Cartola emitida"
+                },
+                {
+                    "codigo": "S001001010000",
+                    "tipo": "MONEY",
+                    "nombre": "Orden de no pago"
+                }
+            ]
+        }
+    ],
+    "lstCuentas": "11111111;CTAEUR;Cuenta Corriente Euros|222222222;CTACTE;Cuenta Corriente Pesos|333333333;CTAUSD;Cuenta Corriente Dólar|44444444;CTACTE;Cuenta Corriente Pesos"
+}
